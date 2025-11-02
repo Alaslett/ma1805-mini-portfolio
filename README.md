@@ -1,6 +1,6 @@
 # MA1805-mini-projects
 
-https://alaslett.github.io/MA1805-mini-portfolio/
+https://alaslett.github.io/ma1805-mini-portfolio/
 
 [01.drawing](01.drawing/index.html) 
 
@@ -8,7 +8,7 @@ https://alaslett.github.io/MA1805-mini-portfolio/
 
 [03.multiples](03.multiples/index.html) 
 
-[04.media](03.media/index.html) 
+[04.media](04.media/index.html) 
 
 
 01 Drawing: My emoji reveals complexity by showing a grey emoji surrounded by coloured symbols around their head. I chose these colours as it represents how the individual has been drained by their complex (colourful) thoughts and trying to make sense of them. I have exaggerated this further by writing a hidden message in the form of binary code so the viewer themselves experiences the same complex feeling by helping the individual make sense of their thoughts and figure out what the binary says. I also incorporated eyes pointing in separate directions to represent how the emoji is muddled and confused.
